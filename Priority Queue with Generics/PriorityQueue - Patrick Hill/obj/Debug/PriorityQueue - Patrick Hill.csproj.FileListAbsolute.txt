@@ -1,0 +1,12 @@
+C:\Users\Patrick\Documents\- SCHOOL\Programming in C#\Advanced C#\PriorityQueue - Patrick Hill\PriorityQueue - Patrick Hill\obj\Debug\PriorityQueue - Patrick Hill.csprojAssemblyReference.cache
+C:\Users\Patrick\Documents\- SCHOOL\Programming in C#\Advanced C#\PriorityQueue - Patrick Hill\PriorityQueue - Patrick Hill\obj\Debug\PriorityQueue___Patrick_Hill.Form1.resources
+C:\Users\Patrick\Documents\- SCHOOL\Programming in C#\Advanced C#\PriorityQueue - Patrick Hill\PriorityQueue - Patrick Hill\obj\Debug\PriorityQueue___Patrick_Hill.Properties.Resources.resources
+C:\Users\Patrick\Documents\- SCHOOL\Programming in C#\Advanced C#\PriorityQueue - Patrick Hill\PriorityQueue - Patrick Hill\obj\Debug\PriorityQueue - Patrick Hill.csproj.GenerateResource.cache
+C:\Users\Patrick\Documents\- SCHOOL\Programming in C#\Advanced C#\PriorityQueue - Patrick Hill\PriorityQueue - Patrick Hill\obj\Debug\PriorityQueue - Patrick Hill.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\Documents\- SCHOOL\Programming in C#\Advanced C#\PriorityQueue - Patrick Hill\PriorityQueue - Patrick Hill\bin\Debug\PriorityQueue - Patrick Hill.exe.config
+C:\Users\Patrick\Documents\- SCHOOL\Programming in C#\Advanced C#\PriorityQueue - Patrick Hill\PriorityQueue - Patrick Hill\bin\Debug\PriorityQueue - Patrick Hill.exe
+C:\Users\Patrick\Documents\- SCHOOL\Programming in C#\Advanced C#\PriorityQueue - Patrick Hill\PriorityQueue - Patrick Hill\bin\Debug\PriorityQueue - Patrick Hill.pdb
+C:\Users\Patrick\Documents\- SCHOOL\Programming in C#\Advanced C#\PriorityQueue - Patrick Hill\PriorityQueue - Patrick Hill\obj\Debug\PriorityQueue - Patrick Hill.exe
+C:\Users\Patrick\Documents\- SCHOOL\Programming in C#\Advanced C#\PriorityQueue - Patrick Hill\PriorityQueue - Patrick Hill\obj\Debug\PriorityQueue - Patrick Hill.pdb
+C:\Users\Patrick\Documents\- SCHOOL\Programming in C#\Advanced C#\PriorityQueue - Patrick Hill\PriorityQueue - Patrick Hill\bin\Debug\PriorityQueue.dll
+C:\Users\Patrick\Documents\- SCHOOL\Programming in C#\Advanced C#\PriorityQueue - Patrick Hill\PriorityQueue - Patrick Hill\obj\Debug\PriorityQueue - Patrick Hill.csproj.CopyComplete
